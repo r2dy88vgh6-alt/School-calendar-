@@ -1,0 +1,431 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//OpenAI//Foxborough School Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Foxborough School 2026-27
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:f61a3495-8f3b-4d44-87d4-46f2bded12e1@openai.local
+DTSTAMP:20260829T011806Z
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260827
+SUMMARY:👩‍🏫 Staff Development — No School
+END:VEVENT
+BEGIN:VEVENT
+UID:8411a19f-0252-4e9c-9339-af7acc3526b4@openai.local
+DTSTAMP:20260829T011806Z
+DTSTART;VALUE=DATE:20260827
+DTEND;VALUE=DATE:20260828
+SUMMARY:👩‍🏫 Staff Development — No School
+END:VEVENT
+BEGIN:VEVENT
+UID:a1b4e282-90a0-4425-83b8-327f331fd3d9@openai.local
+DTSTAMP:20260829T011806Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+SUMMARY:🍎 Lunch — Popcorn Chicken / Stuffed Crust Pizza
+DESCRIPTION:Entrée choices: Popcorn Chicken & Dinner Roll\; Vegan Nuggets
+  & Roll\; Stuffed Crust Pizza\; Soft Pretzel & Yogurt. Served with Fresh
+  Fruit & Veggie Bar\, Carrot Sticks\, Oven Fries\, and Ice Cold Milk.
+END:VEVENT
+BEGIN:VEVENT
+UID:3f22a50d-93ef-43ea-ae0d-836423ba61aa@openai.local
+DTSTAMP:20260829T011806Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+SUMMARY:🎒 First Day of School — Grades K–12
+END:VEVENT
+BEGIN:VEVENT
+UID:fdbe8aee-6bca-4d68-8073-41308a954478@openai.local
+DTSTAMP:20260829T011806Z
+DTSTART;VALUE=DATE:20260902
+DTEND;VALUE=DATE:20260903
+SUMMARY:🍎 Lunch — Pasta & Meatballs / Caesar Salad
+DESCRIPTION:Entrée choices: Pasta & Meatballs\; Pasta & Marinara\; Chicke
+ n Caesar Salad\; Bagel Lunch. Served with Fresh Fruit & Veggie Bar\, Swe
+ et Spinach Salad\, Ice Cold Milk\, and Fresh Baked Cookie.
+END:VEVENT
+BEGIN:VEVENT
+UID:4bc122f4-bec9-4c05-b637-c3cd0a889e62@openai.local
+DTSTAMP:20260829T011806Z
+DTSTART;VALUE=DATE:20260903
+DTEND;VALUE=DATE:20260904
+SUMMARY:🍎 Lunch — School Baked Pizza / Hummus Lunch
+DESCRIPTION:Entrée choices: School Baked Pizza\; Hummus Fun Lunch (hummus
+ \, crackers\, cheese stick & carrots)\; Sunbutter & Jelly with String Ch
+ eese. Served with Fresh Fruit & Veggie Bar\, Marinated Chick Peas\, Ice 
+ Cold Milk\, and Frozen Juice Cup.
+END:VEVENT
+BEGIN:VEVENT
+UID:bb90bbc8-d49d-4f9f-8423-4e5083d5ff45@openai.local
+DTSTAMP:20260829T011806Z
+DTSTART;VALUE=DATE:20260903
+DTEND;VALUE=DATE:20260904
+SUMMARY:🏫 Preschool Open House
+END:VEVENT
+BEGIN:VEVENT
+UID:d670d470-daae-4b6a-9371-e080e256db87@openai.local
+DTSTAMP:20260829T011806Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:🚫 NO SCHOOL
+END:VEVENT
+BEGIN:VEVENT
+UID:0902302f-01ff-426a-8e26-c78937956a8c@openai.local
+DTSTAMP:20260829T011806Z
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+SUMMARY:🚫 NO SCHOOL — Labor Day
+END:VEVENT
+BEGIN:VEVENT
+UID:0f7c9be5-47e3-4f18-a580-45ae44d5d06f@openai.local
+DTSTAMP:20260829T011806Z
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+SUMMARY:🍎 Lunch — Chicken Parm / Burger
+DESCRIPTION:Entrée choices: Chicken Parm Sandwich\; Hamburger\, Cheesebur
+ ger or Vegan Patty\; Wheat Cracker Power Pack. Served with Fresh Fruit &
+  Veggie Bar\, Steamed Broccoli\, Ice Cold Milk\, and Mini Rice Krispy Tr
+ eat.
+END:VEVENT
+BEGIN:VEVENT
+UID:234f8f82-9807-4b01-8144-364f5464e4cd@openai.local
+DTSTAMP:20260829T011806Z
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+SUMMARY:🎒 First Day of Preschool
+END:VEVENT
+BEGIN:VEVENT
+UID:339c4cae-2ddd-409f-9dd5-2fc67b83cca7@openai.local
+DTSTAMP:20260829T011806Z
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260910
+SUMMARY:🍎 Lunch — Pasta / Smoothie & Cereal
+DESCRIPTION:Entrée choices: Pasta & Meat Sauce or Pasta Marinara with Str
+ ing Cheese\; Strawberry Smoothie & Cereal Bar\; Pizza Power Pack. Served
+  with Fresh Fruit & Veggie Bar\, Garlic Green Beans\, Texas Toast\, and 
+ Ice Cold Milk.
+END:VEVENT
+BEGIN:VEVENT
+UID:d2f00e0e-7fa7-44ba-afff-faf9e663f483@openai.local
+DTSTAMP:20260829T011806Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:🍎 Lunch — Chicken Patty / Caesar Salad
+DESCRIPTION:Entrée choices: Chicken Patty Sandwich\; Vegan Patty Sandwich
+ \; Chicken Caesar Salad\; Bagel Lunch. Served with Fresh Fruit & Veggie 
+ Bar\, Tater Tots\, and Ice Cold Milk.
+END:VEVENT
+BEGIN:VEVENT
+UID:d2b6a310-a3de-4bda-8fbd-036cd7b632bf@openai.local
+DTSTAMP:20260829T011806Z
+DTSTART;TZID=America/New_York:20260910T180000
+DTEND;TZID=America/New_York:20260910T191500
+SUMMARY:🏫 Grades 1–4 Open House
+END:VEVENT
+BEGIN:VEVENT
+UID:46206635-b285-4daf-a8f9-d5448f572bd3@openai.local
+DTSTAMP:20260829T011806Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:🍎 Lunch — School Baked Pizza / Cereal Lunch
+DESCRIPTION:Entrée choices: School Baked Pizza\; Cereal Fun Lunch\; Sunbu
+ tter & Jelly with String Cheese. Served with Fresh Fruit & Veggie Bar\, 
+ Red Pepper Strips\, Ice Cold Milk\, Roasted Chick Peas\, and Goldfish Cr
+ ackers.
+END:VEVENT
+BEGIN:VEVENT
+UID:f6040fdc-b8d5-4e20-bfa6-cad3525c7b29@openai.local
+DTSTAMP:20260829T011806Z
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+SUMMARY:🍎 Lunch — Popcorn Chicken / Grilled Cheese
+DESCRIPTION:Entrée choices: Popcorn Chicken & Roll\; Vegan Nuggets & Roll
+ \; Grilled Cheese Sandwich\; Sunbutter & Jelly Sandwich with String Chee
+ se. Served with Veggie Sticks & Dip\, Fresh Fruit & Veggie Bar\, Ice Col
+ d Milk\, and Fritos Corn Chips.
+END:VEVENT
+BEGIN:VEVENT
+UID:f6d0a226-8e67-4057-8cf2-a5f92949acef@openai.local
+DTSTAMP:20260829T011806Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:🍎 Lunch — Mandarin Orange Chicken / Falafel
+DESCRIPTION:Entrée choices: Mandarin Orange Chicken\; Falafel & Pita Chip
+ s\; Pizza for One\; Ham & Cheese Croissant. Served with Teriyaki Noodles
+ \, Glazed Carrots\, Fresh Fruit & Veggie Bar\, and Ice Cold Milk.
+END:VEVENT
+BEGIN:VEVENT
+UID:704620e8-7443-45ae-81aa-ebd645c9901a@openai.local
+DTSTAMP:20260829T011806Z
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260917
+SUMMARY:🍎 Lunch — Cheese Lasagna / Hot Dog
+DESCRIPTION:Entrée choices: Cheese Lasagna\; Hot Dog\; Bagel Lunch. Serve
+ d with Fresh Fruit & Veggie Bar\, Caesar Side Salad\, Baked Beans\, and 
+ Ice Cold Milk.
+END:VEVENT
+BEGIN:VEVENT
+UID:dab9b248-80b8-4342-8b06-bc9fad844778@openai.local
+DTSTAMP:20260829T011806Z
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+SUMMARY:🍎 Lunch — Waffles & Sausage / Drumstick
+DESCRIPTION:Entrée choices: Eggo Waffles & Sausage\; Breaded Chicken Drum
+ stick\; Pizza Power Pack. Served with Fresh Fruit & Veggie Bar\, Potato 
+ Wedges\, and Ice Cold Milk.
+END:VEVENT
+BEGIN:VEVENT
+UID:5b543c79-ed87-4de6-b9a9-d1f6ee2d9ab3@openai.local
+DTSTAMP:20260829T011806Z
+DTSTART;TZID=America/New_York:20260917T190000
+DTEND;TZID=America/New_York:20260917T200000
+SUMMARY:📚 PTO Meeting
+DESCRIPTION:The school notice gives a 7:00 PM start time but no end time\
+ ; 8:00 PM is used only as a placeholder.
+END:VEVENT
+BEGIN:VEVENT
+UID:12826e12-4eae-432c-bf3f-095be033ad12@openai.local
+DTSTAMP:20260829T011806Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:🍎 Lunch — School Baked Pizza / Hummus Lunch
+DESCRIPTION:Entrée choices: School Baked Pizza\; Hummus Fun Lunch (hummus
+ \, crackers\, cheese stick & carrots)\; Sunbutter & Jelly with String Ch
+ eese. Served with Fresh Fruit & Veggie Bar\, Marinated Chick Peas\, Ice 
+ Cold Milk\, and Giant Goldfish Graham.
+END:VEVENT
+BEGIN:VEVENT
+UID:83cf156e-97d4-45fc-87db-4f616b6933ff@openai.local
+DTSTAMP:20260829T011806Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+SUMMARY:🍎 Lunch — Chicken Patty / Smoothie & Cereal
+DESCRIPTION:Entrée choices: Chicken Patty Sandwich\; Vegan Patty Sandwich
+ \; Strawberry Smoothie & Cereal Bar\; Taco Man Snacks. Served with Fresh
+  Fruit & Veggie Bar\, Oven Fries\, and Ice Cold Milk.
+END:VEVENT
+BEGIN:VEVENT
+UID:7cc3f9c1-ea25-422a-b669-03cfd262277f@openai.local
+DTSTAMP:20260829T011806Z
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
+SUMMARY:🍎 Lunch — Pizza Sticks / Turkey Rollup
+DESCRIPTION:Entrée choices: Pizza Sticks & Sauce\; Turkey & Cheese Rollup
+ \; Chicken Caesar Salad. Served with Fresh Fruit & Veggie Bar\, Crunchy 
+ Baby Carrots\, Ice Cold Milk\, and Potato Chips.
+END:VEVENT
+BEGIN:VEVENT
+UID:fbc556f1-b887-4008-8761-455b3b8f3f5a@openai.local
+DTSTAMP:20260829T011806Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:🍎 Lunch — Pizza & Meatballs / Corn Dogs
+DESCRIPTION:Entrée choices: Pizza & Meatballs\; Pasta & Marinara with Str
+ ing Cheese\; Mini Chicken Corn Dogs\; Yogurt Berry Parfait. Served with 
+ Fresh Fruit & Veggie Bar\, Soft Breadstick\, Roasted Broccoli\, and Ice 
+ Cold Milk.
+END:VEVENT
+BEGIN:VEVENT
+UID:b10e2322-641f-4e88-a235-9c10f4eebdde@openai.local
+DTSTAMP:20260829T011806Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+SUMMARY:🍎 Lunch — French Toast & Sausage / Popcorn Chicken
+DESCRIPTION:Entrée choices: French Toast & Sausage\; Popcorn Chicken & Ro
+ ll\; Vegan Nuggets\; Wheat Cracker Power Pack. Served with Fresh Fruit &
+  Veggie Bar\, Sweet Potato Fries\, Sliced Cucumbers\, and Ice Cold Milk.
+END:VEVENT
+BEGIN:VEVENT
+UID:3385376c-5c54-456f-895a-342869437638@openai.local
+DTSTAMP:20260829T011806Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:🍎 Lunch — School Baked Pizza / Hummus Lunch
+DESCRIPTION:Entrée choices: School Baked Pizza\; Hummus Fun Lunch\; Sunbu
+ tter & Jelly with String Cheese. Served with Fresh Fruit & Veggie Bar\, 
+ Marinated Chick Peas\, Ice Cold Milk\, and Giant Goldfish Graham.
+END:VEVENT
+BEGIN:VEVENT
+UID:4a942201-7e2b-4f8d-8488-e18ff1ab623c@openai.local
+DTSTAMP:20260829T011806Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+SUMMARY:🍎 Lunch — Chicken Nuggets / Beef Soft Taco
+DESCRIPTION:Entrée choices: Chicken Nuggets\; Vegan Nuggets\; Beef Soft T
+ aco\; Soft Pretzel & Yogurt. Served with Spanish Rice\, Corn Salsa\, Fre
+ sh Fruit & Veggie Bar\, and Ice Cold Milk.
+END:VEVENT
+BEGIN:VEVENT
+UID:af9251fb-ac8c-46b3-96bf-90478f46b2bb@openai.local
+DTSTAMP:20260829T011806Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+SUMMARY:🍎 Lunch — Pizza Crunchers / Burger
+DESCRIPTION:Entrée choices: Pizza Crunchers\; Hamburger/Cheeseburger or V
+ egan Patty\; Bagel Lunch. Served with Broccoli & Dip\, Fresh Fruit & Veg
+ gie Bar\, Ice Cold Milk\, and Potato Chips.
+END:VEVENT
+BEGIN:VEVENT
+UID:922aeade-c510-44f0-b01f-d86fafcae9ec@openai.local
+DTSTAMP:20260829T011806Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:🍎 Lunch — Pasta & Meat Sauce / Caesar Salad
+DESCRIPTION:Entrée choices: Pasta & Meat Sauce or Pasta with Marinara & S
+ tring Cheese\; Chicken Caesar Salad\; Yogurt Berry Parfait. Served with 
+ Fresh Fruit & Veggie Bar\, Steamed Carrots\, Texas Toast\, and Ice Cold 
+ Milk.
+END:VEVENT
+BEGIN:VEVENT
+UID:34068414-527e-47d2-821f-5d67f3325993@openai.local
+DTSTAMP:20260829T011806Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:👩‍🏫 Professional Development — No School
+END:VEVENT
+BEGIN:VEVENT
+UID:ca1c99e3-862e-46d5-9f59-7cb43e3b801b@openai.local
+DTSTAMP:20260829T011806Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+SUMMARY:🚫 NO SCHOOL — Indigenous Peoples Day
+END:VEVENT
+BEGIN:VEVENT
+UID:668875a0-2167-4cbf-84fb-34fa3b660aee@openai.local
+DTSTAMP:20260829T011806Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:🚫 NO SCHOOL — Veterans Day
+END:VEVENT
+BEGIN:VEVENT
+UID:16cf2198-74d0-4ecf-b283-4241a6d64ef1@openai.local
+DTSTAMP:20260829T011806Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:⏰ K–12 Conference Early Release
+END:VEVENT
+BEGIN:VEVENT
+UID:766b55eb-e42a-402a-b411-baf92c6cb779@openai.local
+DTSTAMP:20260829T011806Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:⏰ K–12 Conference Early Release
+END:VEVENT
+BEGIN:VEVENT
+UID:ee40d527-a56c-4cf0-9b03-45de6eb3eb06@openai.local
+DTSTAMP:20260829T011806Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:⏰ Early Release
+END:VEVENT
+BEGIN:VEVENT
+UID:c0773c1a-a4dc-481e-9c48-b32c48b94456@openai.local
+DTSTAMP:20260829T011806Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261128
+SUMMARY:🦃 NO SCHOOL — Thanksgiving Break
+END:VEVENT
+BEGIN:VEVENT
+UID:8eb851d3-4f69-4d78-ad0c-6a61241cb6e0@openai.local
+DTSTAMP:20260829T011806Z
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+SUMMARY:⏰ Early Release
+END:VEVENT
+BEGIN:VEVENT
+UID:08010f73-9f34-4fe4-a2a0-c8ae0bc06d8d@openai.local
+DTSTAMP:20260829T011806Z
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20270102
+SUMMARY:❄️ NO SCHOOL — Winter Break
+END:VEVENT
+BEGIN:VEVENT
+UID:4935d65f-8e93-4a23-b5d1-b4ec319cf013@openai.local
+DTSTAMP:20260829T011806Z
+DTSTART;VALUE=DATE:20270104
+DTEND;VALUE=DATE:20270105
+SUMMARY:👩‍🏫 Professional Development — No School
+END:VEVENT
+BEGIN:VEVENT
+UID:1ae5b75c-95c7-4949-b426-e1a1af06953f@openai.local
+DTSTAMP:20260829T011806Z
+DTSTART;VALUE=DATE:20270118
+DTEND;VALUE=DATE:20270119
+SUMMARY:🚫 NO SCHOOL — Martin Luther King Jr. Day
+END:VEVENT
+BEGIN:VEVENT
+UID:566e65e3-c7a7-4e57-a3f6-03e55c44b63f@openai.local
+DTSTAMP:20260829T011806Z
+DTSTART;VALUE=DATE:20270215
+DTEND;VALUE=DATE:20270220
+SUMMARY:❄️ NO SCHOOL — February Break
+END:VEVENT
+BEGIN:VEVENT
+UID:8dd30dd8-4f0f-46cb-bd85-93cde8d955b7@openai.local
+DTSTAMP:20260829T011806Z
+DTSTART;VALUE=DATE:20270312
+DTEND;VALUE=DATE:20270313
+SUMMARY:👩‍🏫 Professional Development — No School
+END:VEVENT
+BEGIN:VEVENT
+UID:95eee3ce-b4c8-4e70-b031-622f3c681f54@openai.local
+DTSTAMP:20260829T011806Z
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270327
+SUMMARY:⏰ Early Release
+END:VEVENT
+BEGIN:VEVENT
+UID:89530ed5-96d7-4252-a22a-531061df05a2@openai.local
+DTSTAMP:20260829T011806Z
+DTSTART;VALUE=DATE:20270419
+DTEND;VALUE=DATE:20270424
+SUMMARY:🌷 NO SCHOOL — Spring Break
+END:VEVENT
+BEGIN:VEVENT
+UID:909b1660-6a0f-460f-aee1-97afd7e907e3@openai.local
+DTSTAMP:20260829T011806Z
+DTSTART;VALUE=DATE:20270531
+DTEND;VALUE=DATE:20270601
+SUMMARY:🚫 NO SCHOOL — Memorial Day
+END:VEVENT
+BEGIN:VEVENT
+UID:9ddab988-9d81-4e08-a63e-99dba866eab8@openai.local
+DTSTAMP:20260829T011806Z
+DTSTART;VALUE=DATE:20270611
+DTEND;VALUE=DATE:20270612
+SUMMARY:🎓 Last Day of Kindergarten
+END:VEVENT
+BEGIN:VEVENT
+UID:efe7425f-54f8-4802-af03-124eef3df0c4@openai.local
+DTSTAMP:20260829T011806Z
+DTSTART;VALUE=DATE:20270617
+DTEND;VALUE=DATE:20270618
+SUMMARY:🏁 Tentative Last Day of School
+DESCRIPTION:If there are no cancellation days.
+END:VEVENT
+BEGIN:VEVENT
+UID:a9dc56b2-4f52-406e-9798-d5b5f7115f8c@openai.local
+DTSTAMP:20260829T011806Z
+DTSTART;VALUE=DATE:20270618
+DTEND;VALUE=DATE:20270619
+SUMMARY:🚫 NO SCHOOL — Juneteenth Observed
+END:VEVENT
+BEGIN:VEVENT
+UID:d198739d-ea75-486f-9638-41ae70da5a52@openai.local
+DTSTAMP:20260829T011806Z
+DTSTART;VALUE=DATE:20270621
+DTEND;VALUE=DATE:20270626
+SUMMARY:📅 Possible Cancellation Make-Up Days
+DESCRIPTION:June 21–25 are listed as possible cancellation/make-up days.
+END:VEVENT
+BEGIN:VEVENT
+UID:80fda90d-f277-4900-b777-16cfd535853f@openai.local
+DTSTAMP:20260829T011806Z
+DTSTART;VALUE=DATE:20270625
+DTEND;VALUE=DATE:20270626
+SUMMARY:🏁 Latest Possible Last Day of School
+DESCRIPTION:If all five cancellation days are used.
+END:VEVENT
+END:VCALENDAR

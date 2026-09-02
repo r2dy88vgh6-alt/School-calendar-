@@ -4,7 +4,7 @@ PRODID:-//OpenAI//Foxborough School Calendar//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Foxborough School 2026-27
-in X-WR-TIMEZONE:America/New_York
+X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 UID:f61a3495-8f3b-4d44-87d4-46f2bded12e1@openai.local
 DTSTAMP:20260829T011806Z

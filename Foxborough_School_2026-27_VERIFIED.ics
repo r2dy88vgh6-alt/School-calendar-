@@ -819,11 +819,11 @@ LOCATION:Burrell Parking Lot
 END:VEVENT
 BEGIN:VEVENT
 UID:foxboro-bit-fundraiser-20261107@openai.local
-DTSTART;VALUE=DATE:20261107
-DTEND;VALUE=DATE:20261108
+DTSTART;TZID=America/New_York:20261107T190000
+DTEND;TZID=America/New_York:20261107T233000
 SUMMARY:🎲 B.I.T. of Luck Gala — Casino Night
-LOCATION: Lake Pearl, Wrentham
-DESCRIPTION:Annual Foxboro BIT Gala benefiting Burrell\, Igo\, and Taylor Elementary Schools. Casino-style games\, food\, raffles\, and auction items. Hosted cocktail hour from 7:00–8:00 PM.
+LOCATION:Lake Pearl - 299 Creek St\, Wrentham\, MA 02093
+DESCRIPTION:Annual Foxboro BIT Gala benefiting Burrell\, Igo\, and Taylor Elementary Schools. Casino-style games\, food\, raffles\, auction items\, and hosted bar from 7:00–8:00 PM.
 URL:https://www.zeffy.com/en-US/ticketing/a-bit-of-luck-casino-night
 END:VEVENT
 BEGIN:VEVENT

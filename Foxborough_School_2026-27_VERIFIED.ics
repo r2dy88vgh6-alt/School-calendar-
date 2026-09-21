@@ -817,13 +817,6 @@ DTEND;TZID=America/New_York:20261023T183000
 SUMMARY:🎃 Trunk or Treat
 LOCATION:Burrell Parking Lot
 END:VEVENT
-
-BEGIN:VEVENT
-UID:burrell-picture-day-20261028-29@openai.local
-DTSTART;VALUE=DATE:20261028
-DTEND;VALUE=DATE:20261030
-SUMMARY:📸 Picture Day
-END:VEVENT
 BEGIN:VEVENT
 UID:foxboro-bit-fundraiser-20261107@openai.local
 DTSTART;VALUE=DATE:20261107
@@ -833,6 +826,13 @@ LOCATION: Lake Pearl, Wrentham
 DESCRIPTION:Annual Foxboro BIT Gala benefiting Burrell\, Igo\, and Taylor Elementary Schools. Casino-style games\, food\, raffles\, and auction items. Hosted cocktail hour from 7:00–8:00 PM.
 URL:https://www.zeffy.com/en-US/ticketing/a-bit-of-luck-casino-night
 END:VEVENT
+BEGIN:VEVENT
+UID:burrell-picture-day-20261028-29@openai.local
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261030
+SUMMARY:📸 Picture Day
+END:VEVENT
+
 BEGIN:VEVENT
 UID:pto-meeting-20261007@openai.local
 DTSTART;TZID=America/New_York:20261007T190000

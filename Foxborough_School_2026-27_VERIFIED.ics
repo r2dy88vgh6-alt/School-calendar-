@@ -812,8 +812,8 @@ DESCRIPTION:Grade schedule: 4th Grade 11:50 AM–12:20 PM (Blue)\; Kindergarten 
 END:VEVENT
 BEGIN:VEVENT
 UID:burrell-trunk-or-treat-20261023@openai.local
-DTSTART;TZID=America/New_York:20261023T173000
-DTEND;TZID=America/New_York:20261023T183000
+DTSTART;TZID=America/New_York:20261023T170000
+DTEND;TZID=America/New_York:20261023T180000
 SUMMARY:🎃 Trunk or Treat
 LOCATION:Burrell Parking Lot
 END:VEVENT

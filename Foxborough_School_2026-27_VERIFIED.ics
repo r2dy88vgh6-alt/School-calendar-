@@ -839,3 +839,35 @@ DTSTART;TZID=America/New_York:20261007T190000
 SUMMARY:📚 PTO Meeting
 LOCATION:Burrell Cafeteria
 END:VEVENT
+BEGIN:VEVENT
+UID:lyman-orchards-fundraiser-start-20260928@openai.local
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+SUMMARY:🥧 Lyman Orchards Pie Fundraiser Begins
+END:VEVENT
+
+BEGIN:VEVENT
+UID:flu-clinic-20261008@openai.local
+DTSTART;TZID=America/New_York:20261008T150000
+DTEND;TZID=America/New_York:20261008T170000
+SUMMARY:💉 Flu Vaccine Clinic
+LOCATION:Ahern Middle School - Cafeteria
+DESCRIPTION:Flu clinic for ages 6 months and up. Registration required.
+URL:https://home.color.com/vaccine/walk-up/foxborough/ahern-middle-school-2026
+END:VEVENT
+
+BEGIN:VEVENT
+UID:lyman-orchards-pickup-20261119@openai.local
+DTSTART;TZID=America/New_York:20261119T150000
+DTEND;TZID=America/New_York:20261119T180000
+SUMMARY:🥧 Lyman Orchards Pie Pickup
+LOCATION:Burrell Lobby
+END:VEVENT
+
+BEGIN:VEVENT
+UID:burrell-music-concert-20270324@openai.local
+DTSTART;VALUE=DATE:20270324
+DTEND;VALUE=DATE:20270325
+SUMMARY:🎵 Burrell K–4 Music Concert
+DESCRIPTION:Save the date. Concert will be held in the morning. More information to follow.
+END:VEVENT

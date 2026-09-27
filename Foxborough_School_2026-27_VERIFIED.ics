@@ -808,7 +808,7 @@ DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 
 SUMMARY:🐾 Burrell Bulldog Dash
-
+DESCRIPTION:Grade schedule: 4th Grade 11:50 AM–12:20 PM (Blue)\; Kindergarten 12:25–12:55 PM (Yellow)\; 2nd Grade 1:00–1:30 PM (Green)\; 3rd Grade 1:35–2:05 PM (Orange)\; 1st Grade 2:10–2:40 PM (Red).
 END:VEVENT
 BEGIN:VEVENT
 UID:burrell-trunk-or-treat-20261023@openai.local

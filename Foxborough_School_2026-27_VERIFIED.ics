@@ -871,4 +871,163 @@ DTEND;VALUE=DATE:20270325
 SUMMARY:🎵 Burrell K–4 Music Concert
 DESCRIPTION:Save the date. Concert will be held in the morning. More information to follow.
 END:VEVENT
+BEGIN:VEVENT
+UID:lunch-20261001@openai.local
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:🍎 Lunch — Chicken Patty / Meatball Sub
+DESCRIPTION:Entrée choices: Chicken Patty Sandwich\; Vegan Patty Sandwich\; Meatball Sub\; Nacho Power Pack (tortilla chips\, cheese sauce & salsa). Served with Fresh Fruit & Veggie Bar\, Cukes\, Ranched Up Hummus\, Ice Cold Milk\, and Apple Crisp.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:lunch-20261002@openai.local
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:🍎 Lunch — School Baked Pizza / Cereal Lunch
+DESCRIPTION:Entrée choices: School Baked Pizza\; Cereal Fun Lunch (cereal\, yogurt\, string cheese)\; Wheat Cracker Lunch (wheat crackers\, cheese stick\, yogurt & baby carrots). Served with Fresh Fruit & Veggie Bar\, Potato Smiles\, Ice Cold Milk\, and Oreos.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:lunch-20261005@openai.local
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:🍎 Lunch — Popcorn Chicken / Stuffed Crust Pizza
+DESCRIPTION:Entrée choices: Popcorn Chicken & Dinner Roll\; Vegan Nuggets & Roll\; Stuffed Crust Pizza\; Soft Pretzel & Yogurt. Served with Fresh Fruit & Veggie Bar\, Carrot Sticks\, Mashed Potatoes\, and Ice Cold Milk.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:lunch-20261006@openai.local
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+SUMMARY:🍎 Lunch — Beef Nachos / Grilled Cheese
+DESCRIPTION:Entrée choices: Beef Nachos\; Grilled Cheese Sandwich\; Yogurt & Blueberry Muffin. Served with Fresh Fruit & Veggie Bar\, Steamed Rice\, Golden Corn\, and Ice Cold Milk.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:lunch-20261007@openai.local
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:🍎 Lunch — Pasta & Meatballs / Caesar Salad
+DESCRIPTION:Entrée choices: Pasta & Meatballs\; Pasta & Marinara\; Chicken Caesar Salad\; Bagel Lunch. Served with Fresh Fruit & Veggie Bar\, Sweet Spinach Salad\, Ice Cold Milk\, and Fresh Baked Cookie.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:lunch-20261008@openai.local
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:🍎 Lunch — School Baked Pizza / Hummus Lunch
+DESCRIPTION:Entrée choices: School Baked Pizza\; Hummus Fun Lunch (hummus\, crackers\, cheese stick & carrots)\; Sunbutter & Jelly with String Cheese. Served with Fresh Fruit & Veggie Bar\, Marinated Chick Peas\, Ice Cold Milk\, and Frozen Juice Cup.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:lunch-20261013@openai.local
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:🍎 Lunch — Chicken Parm / Burger
+DESCRIPTION:Entrée choices: Chicken Parm Sandwich\; Hamburger/Cheeseburger or Vegan Patty\; Wheat Cracker Power Pack. Served with Fresh Fruit & Veggie Bar\, Steamed Broccoli\, Ice Cold Milk\, and Mini Rice Krispy Treat.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:lunch-20261014@openai.local
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:🍎 Lunch — Pasta & Meat Sauce / Smoothie & Cereal
+DESCRIPTION:Entrée choices: Pasta & Meat Sauce or Pasta Marinara with String Cheese\; Strawberry Smoothie & Cereal Bar\; Pizza Power Pack. Served with Fresh Fruit & Veggie Bar\, Garlic Green Beans\, Texas Toast\, and Ice Cold Milk.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:lunch-20261015@openai.local
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:🍎 Lunch — Chicken Patty / Caesar Salad
+DESCRIPTION:Entrée choices: Chicken Patty Sandwich\; Vegan Patty Sandwich\; Chicken Caesar Salad\; Bagel Lunch. Served with Fresh Fruit & Veggie Bar\, Tater Tots\, and Ice Cold Milk.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:lunch-20261016@openai.local
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:🍎 Lunch — School Baked Pizza / Wheat Cracker Lunch
+DESCRIPTION:Entrée choices: School Baked Pizza\; Wheat Cracker Lunch\; Sunbutter & Jelly with String Cheese. Served with Fresh Fruit & Veggie Bar\, Red Pepper Strips\, Ice Cold Milk\, Roasted Chick Peas\, and Goldfish Crackers.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:lunch-20261019@openai.local
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+SUMMARY:🍎 Lunch — Popcorn Chicken / Grilled Cheese
+DESCRIPTION:Entrée choices: Popcorn Chicken & Roll\; Vegan Nuggets & Roll\; Grilled Cheese Sandwich\; Sunbutter & Jelly Sandwich with String Cheese. Served with Veggie Sticks & Dip\, Fresh Fruit & Veggie Bar\, Ice Cold Milk\, and Fritos Corn Chips.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:lunch-20261020@openai.local
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:🍎 Lunch — Mandarin Orange Chicken / Falafel
+DESCRIPTION:Entrée choices: Mandarin Orange Chicken\; Falafel & Pita Chips\; Pizza for One\; Ham & Cheese Croissant. Served with Teriyaki Noodles\, Glazed Carrots\, Fresh Fruit & Veggie Bar\, and Ice Cold Milk.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:lunch-20261021@openai.local
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:🍎 Lunch — Cheese Lasagna / Hot Dog
+DESCRIPTION:Entrée choices: Cheese Lasagna\; Hot Dog\; Bagel Lunch. Served with Fresh Fruit & Veggie Bar\, Caesar Side Salad\, Baked Beans\, and Ice Cold Milk.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:lunch-20261022@openai.local
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:🍎 Lunch — Waffles & Sausage / Drumstick
+DESCRIPTION:Entrée choices: Eggo Waffles & Sausage\; Breaded Chicken Drumstick\; Pizza Power Pack. Served with Fresh Fruit & Veggie Bar\, Potato Wedges\, and Ice Cold Milk.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:lunch-20261023@openai.local
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:🍎 Lunch — School Baked Pizza / Cereal Lunch
+DESCRIPTION:Entrée choices: School Baked Pizza\; Cereal Fun Lunch\; Wheat Cracker Lunch. Served with Fresh Fruit & Veggie Bar\, Veggie Pasta Salad\, Ice Cold Milk\, and Scooby Doo Grahams.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:lunch-20261026@openai.local
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:🍎 Lunch — Chicken Patty / Smoothie & Cereal
+DESCRIPTION:Entrée choices: Chicken Patty Sandwich\; Vegan Patty Sandwich\; Strawberry Smoothie & Cereal Bar\; Taco Max Snacks. Served with Fresh Fruit & Veggie Bar\, Oven Fries\, Ice Cold Milk\, and Jack O'Lantern Soft Pretzel.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:lunch-20261027@openai.local
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:🍎 Lunch — Pizza Sticks / Turkey Rollup
+DESCRIPTION:Entrée choices: Pizza Sticks & Sauce\; Turkey & Cheese Rollup\; Chicken Caesar Salad. Served with Fresh Fruit & Veggie Bar\, Crunchy Baby Carrots\, Ice Cold Milk\, and Potato Chips.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:lunch-20261028@openai.local
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:🍎 Lunch — Pasta & Meatballs / Corn Dogs
+DESCRIPTION:Entrée choices: Pasta & Meatballs\; Pasta & Marinara with String Cheese\; Mini Chicken Corn Dogs\; Yogurt Berry Parfait. Served with Fresh Fruit & Veggie Bar\, Soft Breadstick\, Roasted Broccoli\, and Ice Cold Milk.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:lunch-20261029@openai.local
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:🍎 Lunch — French Toast & Sausage / Popcorn Chicken
+DESCRIPTION:Entrée choices: French Toast & Sausage\; Popcorn Chicken & Roll\; Vegan Nuggets\; Wheat Cracker Power Pack. Served with Fresh Fruit & Veggie Bar\, Sweet Potato Fries\, Sliced Cucumbers\, and Ice Cold Milk.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:lunch-20261030@openai.local
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:🍎 Lunch — School Baked Pizza / Hummus Lunch
+DESCRIPTION:Entrée choices: School Baked Pizza\; Hummus Fun Lunch (hummus\, crackers\, cheese stick & carrots)\; Sunbutter & Jelly with String Cheese. Served with Fresh Fruit & Veggie Bar\, Marinated Chick Peas\, Ice Cold Milk\, and Giant Goldfish Graham.
+END:VEVENT
 END:VCALENDAR

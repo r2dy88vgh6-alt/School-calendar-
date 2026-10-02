@@ -1768,4 +1768,35 @@ DTSTART;VALUE=DATE:20270617
 DTEND;VALUE=DATE:20270618
 SUMMARY:🔄 Day 6
 END:VEVENT
+BEGIN:VEVENT
+UID:bit-raffle-ticket-deadline-20261004@openai.local
+DTSTART;TZID=America/New_York:20261004T200000
+SUMMARY:🎟️ BIT Gala Raffle Giveaway Deadline
+DESCRIPTION:Purchase tickets to A BIT of Luck Casino Night by 8:00 PM to be entered to win 100 raffle tickets. One entry per person. Anyone who already purchased event tickets is automatically entered. Winner will be chosen October 5.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:bit-jake-n-joes-20261007@openai.local
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:🍔 BIT Fundraiser — Jake n Joe's
+LOCATION:Jake n Joe's - 25 Foxborough Blvd\, Foxboro\, MA 02035
+DESCRIPTION:Dine in\, takeout\, or order online all day. Mention "Foxboro BIT" so 20% of qualifying pre-tax sales goes back to Foxboro BIT. For online orders\, add the item "Fundraiser" before checkout.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:burrell-safety-drills-20261014@openai.local
+DTSTART;TZID=America/New_York:20261014T133000
+SUMMARY:🚨 Burrell Safety Drills
+DESCRIPTION:Annual safety drill practice with assistance from the Foxborough Police Department. Brief hold begins at 1:30 PM\, lockdown drill at 1:35 PM\, and evacuation drill at 1:45 PM. Total drill time is expected to be approximately 30–40 minutes.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:bit-skate-night-20261017@openai.local
+DTSTART;TZID=America/New_York:20261017T190000
+DTEND;TZID=America/New_York:20261017T200000
+SUMMARY:⛸️ BIT Skate Night
+LOCATION:Norfolk Ice Arena
+DESCRIPTION:One hour of skating and concessions. $10 single skater or $20 family pass. Skate rentals available for $4. Reserve your spot via Venmo @igopto2023.
+END:VEVENT
 END:VCALENDAR

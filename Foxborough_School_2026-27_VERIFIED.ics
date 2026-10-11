@@ -1799,4 +1799,10 @@ SUMMARY:⛸️ BIT Skate Night
 LOCATION:Norfolk Ice Arena
 DESCRIPTION:One hour of skating and concessions. $10 single skater or $20 family pass. Skate rentals available for $4. Reserve your spot via Venmo @igopto2023.
 END:VEVENT
+BEGIN:VEVENT
+UID:pto-meeting-20261110@openai.local
+DTSTART;TZID=America/New_York:20261110T190000
+SUMMARY:📚 PTO Meeting #3
+LOCATION:Burrell Cafeteria
+END:VEVENT
 END:VCALENDAR

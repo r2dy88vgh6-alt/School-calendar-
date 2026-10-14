@@ -1805,4 +1805,29 @@ DTSTART;TZID=America/New_York:20261110T190000
 SUMMARY:📚 PTO Meeting #3
 LOCATION:Burrell Cafeteria
 END:VEVENT
+BEGIN:VEVENT
+UID:foxboro-halloween-parade-20261024@openai.local
+DTSTART;TZID=America/New_York:20261024T143000
+DTEND;TZID=America/New_York:20261024T160000
+SUMMARY:🎃 Foxboro Halloween Parade
+LOCATION:Foxborough Town Hall
+DESCRIPTION:Foxboro Recreation's annual Halloween Parade. Gather at Town Hall at 2:30 PM. Parade begins at 3:00 PM and travels to the Common with trick-or-treating along the way. Costumes encouraged with prizes and awards for different age groups. Church of Emmanuel's Fall Festival follows immediately at 4:00 PM.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:foxboro-veterans-day-ceremony-20261111@openai.local
+DTSTART;TZID=America/New_York:20261111T110000
+SUMMARY:🇺🇸 Veterans Day Celebration
+LOCATION:Foxborough Community Center - 76 Main Street\, Foxborough\, MA
+DESCRIPTION:Community Veterans Day celebration hosted by the Foxborough Veterans Department. Families are welcome. A light lunch will be served after the ceremony. Questions: 508-543-1204.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:foxborough-light-uptown-20261128@openai.local
+DTSTART;TZID=America/New_York:20261128T160000
+DTEND;TZID=America/New_York:20261128T190000
+SUMMARY:🎄 Foxborough Light Uptown
+LOCATION:Foxborough Common
+DESCRIPTION:2026 Light Uptown celebration featuring drinks\, music\, activities\, food\, surprises\, and the town tree lighting.
+END:VEVENT
 END:VCALENDAR

@@ -1839,11 +1839,19 @@ DESCRIPTION:Schoolwide Bulldog Dash reward. Students may wear pajamas to school 
 END:VEVENT
 
 BEGIN:VEVENT
-UID:burrell-charleston-wrap-20261026@openai.local
+UID:burrell-charleston-wrap-start-20261026@openai.local
 DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:🎁 Charleston Wrap Fundraiser Begins
+DESCRIPTION:Burrell PTO fundraiser begins today. Organization ID: 26109.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:burrell-charleston-wrap-end-20261210@openai.local
+DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
-SUMMARY:🎁 Charleston Wrap Fundraiser
-DESCRIPTION:Burrell PTO fundraiser runs October 26 through December 10. Organization ID: 26109.
+SUMMARY:🎁 Charleston Wrap Fundraiser Ends
+DESCRIPTION:Final day of the Burrell PTO Charleston Wrap fundraiser. Organization ID: 26109.
 END:VEVENT
 
 BEGIN:VEVENT

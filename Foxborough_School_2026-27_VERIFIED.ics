@@ -1830,4 +1830,28 @@ SUMMARY:🎄 Foxborough Light Uptown
 LOCATION:Foxborough Common
 DESCRIPTION:2026 Light Uptown celebration featuring drinks\, music\, activities\, food\, surprises\, and the town tree lighting.
 END:VEVENT
+BEGIN:VEVENT
+UID:burrell-pajama-stuffie-day-20261030@openai.local
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:🧸 Pajama & Stuffie Day / Teacher Dress Crazy Day
+DESCRIPTION:Schoolwide Bulldog Dash reward. Students may wear pajamas to school and bring one stuffie. Teachers will celebrate with Teacher Dress Crazy Day.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:burrell-charleston-wrap-20261026@openai.local
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261211
+SUMMARY:🎁 Charleston Wrap Fundraiser
+DESCRIPTION:Burrell PTO fundraiser runs October 26 through December 10. Organization ID: 26109.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:foxboro-clean-up-streets-20261107@openai.local
+DTSTART;TZID=America/New_York:20261107T090000
+DTEND;TZID=America/New_York:20261107T120000
+SUMMARY:🧤 Foxboro Clean Up the Streets Kickoff
+LOCATION:Foxborough Town Hall - 40 South St\, Foxborough\, MA
+DESCRIPTION:Kickoff for Foxboro Clean Up the Streets Week\, November 7–14. Drop in between 9:00 AM and noon. Bags\, gloves\, and cleanup-location suggestions provided.
+END:VEVENT
 END:VCALENDAR

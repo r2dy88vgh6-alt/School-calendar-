@@ -1862,12 +1862,5 @@ SUMMARY:🧤 Foxboro Clean Up the Streets Kickoff
 LOCATION:Foxborough Town Hall - 40 South St\, Foxborough\, MA
 DESCRIPTION:Kickoff for Foxboro Clean Up the Streets Week\, November 7–14. Drop in between 9:00 AM and noon. Bags\, gloves\, and cleanup-location suggestions provided.
 END:VEVENT
-BEGIN:VEVENT
-UID:burrell-charleston-wrap-20261026@openai.local
-DTSTART;VALUE=DATE:20261026
-DTEND;VALUE=DATE:20261211
-SUMMARY:🎁 Charleston Wrap Fundraiser
-STATUS:CANCELLED
-SEQUENCE:1
-END:VEVENT
+
 END:VCALENDAR

@@ -1862,5 +1862,24 @@ SUMMARY:🧤 Foxboro Clean Up the Streets Kickoff
 LOCATION:Foxborough Town Hall - 40 South St\, Foxborough\, MA
 DESCRIPTION:Kickoff for Foxboro Clean Up the Streets Week\, November 7–14. Drop in between 9:00 AM and noon. Bags\, gloves\, and cleanup-location suggestions provided.
 END:VEVENT
+BEGIN:VEVENT
+UID:burrell-red-white-blue-day-20261110@openai.local
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:🇺🇸 Red, White & Blue Day
+END:VEVENT
 
+BEGIN:VEVENT
+UID:burrell-ruby-bridges-walk-20261113@openai.local
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:👟 Ruby Bridges Walk to School Day
+END:VEVENT
+
+BEGIN:VEVENT
+UID:burrell-trimester1-ends la-20261130@openai.local
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:📚 Trimester 1 Ends — Grades 1–4
+END:VEVENT
 END:VCALENDAR

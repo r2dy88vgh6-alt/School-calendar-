@@ -1882,4 +1882,155 @@ DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:📚 Trimester 1 Ends — Grades 1–4
 END:VEVENT
+BEGIN:VEVENT
+UID:lunch-20261102@openai.local
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:🍎 Lunch — Chicken Tenders / Beef Soft Taco
+DESCRIPTION:Entrée choices: Chicken Tenders\; Vegan Nuggets\; Beef Soft Taco\; Soft Pretzel & Yogurt. Served with Steamed Rice\, Corn Salsa\, Fresh Fruit & Veggie Bar\, and Ice Cold Milk.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:lunch-20261103@openai.local
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:🍎 Lunch — Pizza Crunchers / Burger
+DESCRIPTION:Entrée choices: Pizza Crunchers\; Hamburger/Cheeseburger or Vegan Patty\; Bagel Lunch. Served with Broccoli & Dip\, Fresh Fruit & Veggie Bar\, Ice Cold Milk\, and Potato Chips.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:lunch-20261104@openai.local
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:🍎 Lunch — Pasta & Meat Sauce / Caesar Salad
+DESCRIPTION:Entrée choices: Pasta & Meat Sauce or Pasta Marinara with String Cheese\; Chicken Caesar Salad\; Yogurt Berry Parfait. Served with Fresh Fruit & Veggie Bar\, Steamed Carrots\, Texas Toast\, and Ice Cold Milk.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:lunch-20261105@openai.local
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:🍎 Lunch — Chicken Patty / Meatball Sub
+DESCRIPTION:Entrée choices: Chicken Patty Sandwich\; Vegan Patty Sandwich\; Meatball Sub\; Nacho Power Pack. Served with Fresh Fruit & Veggie Bar\, Sliced Cucumbers\, Ranched Up Hummus\, Ice Cold Milk\, and Apple Crisp.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:lunch-20261106@openai.local
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:🍎 Lunch — School Baked Pizza / Cereal Lunch
+DESCRIPTION:Entrée choices: School Baked Pizza\; Cereal Fun Lunch\; Wheat Cracker Lunch. Served with Fresh Fruit & Veggie Bar\, Sliced Cucumbers\, Ranched Up Hummus\, Ice Cold Milk\, and Oreos.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:lunch-20261109@openai.local
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:🍎 Lunch — Popcorn Chicken / Stuffed Crust Pizza
+DESCRIPTION:Entrée choices: Popcorn Chicken & Dinner Roll\; Vegan Nuggets & Roll\; Stuffed Crust Pizza\; Soft Pretzel & Yogurt. Served with Fresh Fruit & Veggie Bar\, Carrot Sticks\, Mashed Potatoes\, and Ice Cold Milk.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:lunch-20261110@openai.local
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:🍎 Lunch — Beef Nachos / Grilled Cheese
+DESCRIPTION:Entrée choices: Beef Nachos\; Grilled Cheese Sandwich\; Yogurt & Blueberry Muffin. Served with Fresh Fruit & Veggie Bar\, Steamed Rice\, Golden Corn\, and Ice Cold Milk.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:burrell-pie-principal-20261110@openai.local
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:🥧 Pie the Principal — Schoolwide Assembly
+DESCRIPTION:Bulldog Dash reward. Fourth grade raised the most money and every 4th grader will get the chance to pie Mr. Worth during the schoolwide assembly.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:lunch-20261112@openai.local
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:🍎 Lunch — Mac & Cheese / Hot Dog
+DESCRIPTION:Entrée choices: Creamy Mac & Cheese\; Hot Dog\; Nacho Power Pack. Served with Fresh Fruit & Veggie Bar\, Seasoned Mixed Vegetables\, Ice Cold Milk\, and Animal Crackers.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:lunch-20261113@openai.local
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:🍎 Lunch — School Baked Pizza / Hummus Lunch
+DESCRIPTION:Entrée choices: School Baked Pizza\; Hummus Fun Lunch\; Sunbutter & Jelly with String Cheese. Served with Fresh Fruit & Veggie Bar\, Marinated Chick Peas\, Ice Cold Milk\, and Frozen Juice Cup.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:lunch-20261116@openai.local
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:🍎 Lunch — Chicken Tenders / Good Crust Pizza
+DESCRIPTION:Entrée choices: Chicken Tenders\; Vegan Nuggets\; Good Crust Pizza\; Soft Pretzel & Yogurt. Served with Fresh Fruit & Veggie Bar\, Tortilla Chips & Salsa\, Celery & Carrot Sticks\, and Ice Cold Milk.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:lunch-20261117@openai.local
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:🍎 Lunch — Chicken Parm / Burger
+DESCRIPTION:Entrée choices: Chicken Parm Sandwich\; Hamburger/Cheeseburger or Vegan Patty\; Wheat Cracker Power Pack. Served with Fresh Fruit & Veggie Bar\, Steamed Broccoli\, Ice Cold Milk\, and Mini Rice Krispy Treat.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:lunch-20261118@openai.local
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:🍎 Lunch — Pasta / Smoothie & Cereal
+DESCRIPTION:Entrée choices: Pasta & Meat Sauce or Pasta Marinara with String Cheese\; Strawberry Smoothie & Cereal Bar\; Pizza Power Pack. Served with Fresh Fruit & Veggie Bar\, Garlic Green Beans\, Texas Toast\, and Ice Cold Milk.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:lunch-20261119@openai.local
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:🍎 Lunch — Chicken Patty / Caesar Salad
+DESCRIPTION:Entrée choices: Chicken Patty Sandwich\; Vegan Patty Sandwich\; Chicken Caesar Salad\; Bagel Lunch. Served with Fresh Fruit & Veggie Bar\, Tater Tots\, and Ice Cold Milk.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:lunch-20261120@openai.local
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:🍎 Lunch — School Baked Pizza / Cereal Lunch
+DESCRIPTION:Entrée choices: School Baked Pizza\; Cereal Fun Lunch\; Sunbutter & Jelly with String Cheese. Served with Fresh Fruit & Veggie Bar\, Red Pepper Strips\, Roasted Chick Peas\, Ice Cold Milk\, and Turkey Shaped Cookie.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:lunch-20261123@openai.local
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:🍎 Early Release Lunch — Nacho Power Pack
+DESCRIPTION:Early release lunch. Nacho Power Pack with tortilla chips\, cheddar cheese cup\, sunflower seeds\, salsa\, dried apple chips\, and milk. Lunches must be preordered online for early release week.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:lunch-20261124@openai.local
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:🍎 Early Release Lunch — Soft Pretzel
+DESCRIPTION:Early release lunch. Soft wheat pretzel\, cheddar cheese cup\, sunflower seeds\, grape tomatoes\, Craisins\, and milk. Lunches must be preordered online.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:lunch-20261125@openai.local
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:🍎 Early Release Lunch — Sunbutter & Jelly
+DESCRIPTION:Early release lunch. Sunbutter & Jelly Sandwich\, BBQ Chicken Jerky\, Cheez-Its\, Sunset Sips Juice\, applesauce cup\, and milk. Lunches must be preordered online.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:lunch-20261130@openai.local
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:🍎 Lunch — Chicken Patty / Smoothie & Cereal
+DESCRIPTION:Entrée choices: Chicken Patty Sandwich\; Vegan Patty Sandwich\; Strawberry Smoothie & Cereal Bar\; Taco Max Snacks. Served with Fresh Fruit & Veggie Bar\, Oven Fries\, Ice Cold Milk\, and Pretzels.
+END:VEVENT
 END:VCALENDAR
